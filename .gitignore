@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+frontend/.env.local
+
+# Local secrets
+.streamlit/secrets.toml
+secrets.toml
+
+# TypeScript build cache
+*.tsbuildinfo

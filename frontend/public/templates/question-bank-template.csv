@@ -1,0 +1,4 @@
+﻿category,question_type,prompt,options,correct_answer,expected_output,grading_rubric,topic,difficulty,marks,is_active
+aptitude,mcq,What is the time complexity of binary search on a sorted array?,O(n) | O(log n) | O(n log n) | O(1),O(log n),,,Algorithms,Easy,1,True
+aptitude,short,What Python keyword defines a function?,,def,,,Python,Easy,1,True
+programming,coding,Write a Python function that returns the sum of integers in a list.,,,12,"Full credit: correct function, handles empty list, returns the sum; assess code quality and clarity.",Python,Easy,5,True
